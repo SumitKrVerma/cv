@@ -1,0 +1,163 @@
+<html>
+<head>
+<title>CV</title> 
+</head>
+<body>
+
+  <p id="heading">Sumit Kumar Verma</p> 
+  <p> <span id="details">Email:</span> <u>sumit864@gmail.com</u><br></p>
+  <p> <span id="details1"> Contact Number:</span> (+91) 7905445892 </p>  
+  
+  <hr>
+            <h3>Career Objective</h3>
+             
+               <ol>
+                 <p>To achieve a bright career in progressive and rewarding work environment, where I can actively devote my creative ability and professional interest which provides me opportunity for learning and growth.</p>
+               </ol>
+            
+
+            <h3>Experience Summary</h3>
+            
+               <ol>
+                  <p>&check;&nbsp;&nbsp;IT experience in Java/J2EE Technologies in the field of application software development and testing.</p>
+               </ol>
+            
+
+           <h3>Academics</h3>
+              <table> 
+           
+            
+                <tr id="heading", <div style="background-color:silver">
+                    <td>QUALIFICATION</td>
+                    <td>INSTITUTE</td>
+                    <td>BOARD/UNIVERSITY</td>
+                    <td>YEAR OF PASSING</td>
+		    <td>PERCENTAGE</td>
+                   
+                </tr </div>
+
+                <tr>
+                    <td>M.C.A</td>
+                    <td>IMS,Ghaziabad</td>
+                    <td>MTU,Noida</td>
+                    <td>2013</td>
+		    <td>73</td>
+                </tr>
+
+                <tr>
+                    <td>B.sc. (Maths)</td>
+                    <td>Bipin Bihari Degree College,Jhansi </td>
+                    <td>Bundelkhand,University</td>
+                    <td>2009</td>
+		    <td>55</td>
+                </tr>
+
+                <tr>
+                    <td>Intermediate</td>
+                    <td>Bhel Shiksha Niketan,Jhansi</td>
+                    <td>C.B.S.E</td>
+                    <td>2006</td>
+		    <td>61</td>
+                </tr>
+
+                <tr>
+                    <td>High School</td>
+                    <td>Bhel Shiksha Niketan ,Jhansi</td>
+                    <td>C.B.S.E</td>
+                    <td>2004</td>
+		    <td>66</td>
+                </tr>
+                
+            </table>
+
+           <h3>Technical Summary</h3>
+	    <table>
+                <tr id="heading",<div style="background-color:silver">
+                    <td>SKILLS</td>
+                    <td>TOOLS</td>
+                    
+                    </tr </div>
+
+                <tr>
+                    <td>Technical Stacks</td>
+                    <td>Core Java, Spring Boot, Spring REST , Spring JPA </td>
+                </tr>
+
+                <tr>
+                    <td>Database</td>
+                    <td>MySQL</td>
+                </tr>
+
+                <tr>
+                    <td>OS</td>
+                    <td>Windows, Linux</td>
+                </tr>
+
+                <tr>
+                    <td>IDE</td>
+                    <td>Eclipse</td>
+                </tr>
+
+            </table>
+
+           <h3>Employment Details</h3>
+	    <table>
+        
+                <tr id="heading",<div style="background-color:silver">
+                  
+                    <td>Duration</td>
+                    <td>Organization</td>
+		    <td>Designation</td>
+                  
+                  </tr </div>
+
+	            <tr>
+                    <td>‘Nov 18’ to ‘Mar 19’</td>
+                    <td>Elite Group</td>
+		    <td>Software Engineer (Trainee)</td>
+                  </tr>
+           </table>
+
+               <h3>Project Experience</h3>
+	     
+               <ol> 
+               <p> <div style="background-color:silver"><span id="#details">Project#1</span></div></p>
+                
+
+                <p>
+                <span id="details2">Project Name:</span> Coupon Wallet</p>
+                <p>
+                <span id="details3">Organization:</span> Elite Group</p>
+                <p>
+                <span id="details4">Location:</span>Noida/India</p>
+		<p>
+		<span id="details5">Duration:</span>Nov 2018 to Mar 2019</p>
+		<p>
+		<span id="details6">Role:</span>Software Engineer</p>
+		<p>
+		 <span id="details7">Team Size:</span>6</p>
+		<p>
+		<span id="details8">Environment:</span>Windows</p>
+		<p>
+		<span id="details9">Description:</span>This platform provide  Mobile Wallet, Loyalty , Couponing . This product helps merchants of different domain like Hospitality , Retail Store, Sports Club, Travel Agencies, Food and Beverage Service providers, Payment & Financial institutions, etc to push there geofenced based coupon and offers to the customer. </p>
+               </ol>
+             
+                <ol>
+	        <p>
+                <span id="details10">Responsibilities:</span></p></ol><ul><li>Involve in Coding and testing</li></ul>
+
+               </p>
+
+          <h3>Personal Details:</h3>
+            <p>Father’s Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shri Naresh Prasad</p>
+            <p> Date of Birth Aug &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22,1988  </p>
+            <p>Marital Status &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Single </p>
+            <p>Sex &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Male  </p>
+            <p>Address &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 153-A , Regent ,Shipra Sun City Ghaziabad (U.P.)-201014 </p>                                                                                                                                                                                                    
+            <p>Interest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skating, Internet Surfing, Cricket </p>                                                
+            <p> Language Known&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English, Hindi</p>
+                                                                                      
+     
+     <div id="footer"></div>
+    </body>
+</html> 
